@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=OGZI8AM6U3c&t=4s
 
 Inclusão no esLint.
 ng add @angular-eslint/schematics
+
+## Curso Angular v13: #10 - Lista de Heroes
+https://www.youtube.com/watch?v=oS5yA0mnA8w&list=PLqsayW8DhUmvtNlkDqYj99X73ts9FLK7j&index=10
+![aula-10](https://github.com/agsilvamhm/ThourOfHeros/blob/main/thourofheros/src/assets/images-projeto/Aula-10.PNG)
