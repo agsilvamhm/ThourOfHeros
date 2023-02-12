@@ -8,10 +8,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./heros.component.css']
 })
 export class HerosComponent  {
-  hero: Hero = {
-     id: 1,
-     name: 'Wolverine'
-    };
 
     heroes = HEROES
 
@@ -19,6 +15,4 @@ export class HerosComponent  {
     onSelect(hero: Hero): void{
       this.selectedHero = hero
     }
-
-
 }
